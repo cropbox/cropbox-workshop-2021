@@ -2,4 +2,6 @@
 
 # Cropbox Workshop 2021
 
+상세한 내용은 [위키](../../wiki)를 참조해주세요.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cropbox/cropbox-workshop-2021/main)
